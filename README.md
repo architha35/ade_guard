@@ -89,6 +89,7 @@ streamlit run ui_app.py
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/63962595-7383-4d4d-8655-9ab24337c4ce" />
 
  👩‍💻 Author
+ 
 Architha : https://github.com/architha35
 Linkedin : https://www.linkedin.com/in/architha-reddy-3190132ba/
 
