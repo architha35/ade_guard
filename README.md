@@ -40,7 +40,7 @@ Built as part of a **hackathon project**, this system combines predictive analyt
 |-------|-------------|
 | **Frontend** | Streamlit (Python) |
 | **Backend** | Flask |
-| **LLM Engine** | Ollama (local Phi-3 or similar model) |
+| **LLM Engine** | Ollama (local Phi-3) |
 | **Language** | Python 3.10+ |
 | **Styling** | Custom Streamlit UI with warm color palette |
 
